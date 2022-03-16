@@ -33,5 +33,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepages": "https://marianatprograma.github.io/repaso-react"
+  "homepage": "https://marianatprograma.github.io/repaso"
 }
